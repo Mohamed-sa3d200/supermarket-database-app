@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarketDBAPP1", "SuperMarketDBAPP1\SuperMarketDBAPP1.csproj", "{9758FF36-79F0-449E-8CA0-FB96302D7957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9758FF36-79F0-449E-8CA0-FB96302D7957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9758FF36-79F0-449E-8CA0-FB96302D7957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9758FF36-79F0-449E-8CA0-FB96302D7957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9758FF36-79F0-449E-8CA0-FB96302D7957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4CC461E-8996-4CEE-915E-B68A6DFCEDD9}
+	EndGlobalSection
+EndGlobal
